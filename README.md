@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (In this assignment we had to build a photogallery where a user can navigate through the pictures and preview what is to come.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://nicolegiana.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
 1. (I learned how to creat Event listeners.)
