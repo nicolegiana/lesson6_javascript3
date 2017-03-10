@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 9, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Nicole Alvarez)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we had to build a photogallery where a user can navigate through the pictures and preview what is to come.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to creat Event listeners.)
+2. (I learned how to create a for loop.)
+3. (I learned how to create new nodes like figure and img.)
